@@ -5,8 +5,14 @@
 * Cisco NDG Linux
 
 
-* screenshot HackerEarth Points 
+![Screenshot (71)](https://user-images.githubusercontent.com/98865009/153265300-4f320f8e-7c17-4647-8647-73424e1ed8a8.png)
+
+
+* screenshot HackerEarth Points
+
+
 ![HackerEarth](https://user-images.githubusercontent.com/98865009/153261705-022bc73a-c2df-4f23-a994-cc1598c37010.png)
+
 
 * screenshot of Github learning 
 

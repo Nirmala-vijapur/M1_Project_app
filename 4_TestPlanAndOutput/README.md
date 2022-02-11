@@ -1,7 +1,6 @@
 # Test plan 
 
-<<<<<<< HEAD
-=======
+
 |No|Test case ID|Test case Objective                                 |Prerequisite         |Steps             |Input data   |Expected Result|Actual Result        |Status|
 |:-|:----------:|:--------------------------------------------------:|:-------------------:|:----------------:|:-----------:|:-------------:|:-------------------:|:----:|
 |1 |TC-1        |addition of two integers & display the result       |welcome to calculator|Enter operation  1|1  ,     2   |3              |3                    |Pass  |
@@ -18,4 +17,3 @@
 |12|TC-12       |square root of two integers & display the result    |welcome to calculator|Enter operation 10|6            |36             |36                   |Pass  |
 
 
->>>>>>> 3c566ce8ca72723b536b0e49f53aa3b97ec74b47

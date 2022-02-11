@@ -1,12 +1,19 @@
 * Sololearn
-[cert-1089-24871198.pdf](https://github.com/Nirmala-vijapur/M1_Project_app-/files/8010255/cert-1089-24871198.pdf)
+
+![cert-1089-24871198](https://user-images.githubusercontent.com/98865009/153264514-118798db-2fbb-4675-a13d-04477471c6db.jpg)
 
 * Cisco NDG Linux
-[NirmalaVijapur-NDG Linux Unhatc-certificate.pdf](https://github.com/Nirmala-vijapur/M1_Project_app-/files/8010263/NirmalaVijapur-NDG.Linux.Unhatc-certificate.pdf)
 
-* screenshot HackerEarth Points 
-![Screenshot (53)](https://user-images.githubusercontent.com/98865009/152683314-d3a1e5a7-1d93-42d0-9fa9-76a4e1629ec3.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/98865009/153265300-4f320f8e-7c17-4647-8647-73424e1ed8a8.png)
+
+
+* screenshot HackerEarth Points
+
+
+![HackerEarth](https://user-images.githubusercontent.com/98865009/153261705-022bc73a-c2df-4f23-a994-cc1598c37010.png)
+
 
 * screenshot of Github learning 
 
-![Screenshot (55)](https://user-images.githubusercontent.com/98865009/152686315-a28c3b74-9517-42a2-97be-a83f094ca448.png)
+![Github learning](https://user-images.githubusercontent.com/98865009/153261955-aec105db-f71b-4122-b161-8b77f9e8a713.jpeg)

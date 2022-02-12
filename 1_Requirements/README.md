@@ -23,9 +23,9 @@ A scientific calculator is an electronic device that can be used to evaluate and
 |ID  |DESCRIPTION                                                                                                                                    |STATUS     |
 |:---|:----------------------------------------------------------------------------------------------------------------------------------------------|:----------|
 |HLR1|Enter the operation you want to do (like Addition, subtraction, multiplication, division, modulus, power, factorial, square, cube, square root)|Implemented|
-|HLR2|enter the two numbers                                                                                                                          |Implemented|
+|HLR2|Enter the two numbers                                                                                                                          |Implemented|
 |HLR3|If user entered Invalied then it will ask for vallied operation                                                                                |Implemented|               
-|HLR4|if user enter more then two numbers then it will ask for vallied numbers                                                                       |Implemented| 
+|HLR4|If user enter more then two numbers then it will ask for vallied numbers                                                                       |Implemented| 
 
 
 ## SWOT

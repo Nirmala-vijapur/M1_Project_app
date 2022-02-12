@@ -47,7 +47,7 @@ It is important that the students become confident users of calculators. They ne
 
 # Architecture
 
-# Behavioral Diagram
+* Behavioral Diagram
 
 # High Level
 
@@ -59,3 +59,19 @@ It is important that the students become confident users of calculators. They ne
 
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/98865009/153655690-2870b5ec-5375-4e8d-869f-df3917876fa8.png)
+
+
+
+* strctural 
+
+# High level
+
+
+![Screenshot (73)](https://user-images.githubusercontent.com/98865009/153656084-7721eefe-eae8-45b0-8913-bfc126de25ac.png)
+
+
+
+# Low level
+
+![Screenshot (52)](https://user-images.githubusercontent.com/98865009/153656303-cdbdd202-df90-4d84-b0f4-d699afcd22fd.png)
+

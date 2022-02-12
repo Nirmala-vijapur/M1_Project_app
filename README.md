@@ -1,4 +1,4 @@
-# M1_Project_app
+# M1_scientific_calculator_utility
 
 ## Milestone -1
 * Floder Structure 

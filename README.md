@@ -30,3 +30,9 @@ https://codingshiksha.com/c/c-c-program-to-build-scientific-calculator-on-comman
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5943de82507647feb95cfb83e5de777a)](https://www.codacy.com/gh/Nirmala-vijapur/M1_scientific_calculator_utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nirmala-vijapur/M1_scientific_calculator_utility&amp;utm_campaign=Badge_Grade)
+
+
+https://api.codiga.io/project/31238/score/svg
+
+
+https://api.codiga.io/project/31238/status/svg

@@ -16,3 +16,6 @@ A scientific calculator is an electronic device that can be used to evaluate and
 |6_ImagesAndVideos  |Documentation of screenshots of result and videos                                       |
 |7_Others           |Documentation of references and data sheets                                             |
 
+
+# References
+https://www.youtube.com/watch?v=bqWjx9NXxAI

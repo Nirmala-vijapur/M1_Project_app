@@ -19,3 +19,5 @@ A scientific calculator is an electronic device that can be used to evaluate and
 
 # References
 https://www.youtube.com/watch?v=bqWjx9NXxAI
+
+https://fresh2refresh.com/c-programming/c-programs/c-code-for-calculator-application/

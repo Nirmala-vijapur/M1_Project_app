@@ -109,3 +109,7 @@ It is important that the students become confident users of calculators. They ne
 
 # References
 https://www.youtube.com/watch?v=bqWjx9NXxAI
+
+https://fresh2refresh.com/c-programming/c-programs/c-code-for-calculator-application/
+
+https://codingshiksha.com/c/c-c-program-to-build-scientific-calculator-on-command-line-full-project-for-beginners/

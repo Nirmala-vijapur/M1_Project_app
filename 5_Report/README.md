@@ -45,8 +45,9 @@ Even though calculators can do the basic operations instantly, students should n
 ## 4w's & 1H
 It is important that the students become confident users of calculators. They need to recognise that the calculator is a tool they are in control of and to understand how it can help them to develop their mathematics.
 
-#Architecture
-#Behavioral Diagram
+# Architecture
+
+# Behavioral Diagram
 
 # High Level
 

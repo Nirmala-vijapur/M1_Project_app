@@ -5,17 +5,19 @@ A scientific calculator is an electronic device that can be used to evaluate and
 # Requirements 
 
 ## High Level Requirements
-Features of My project
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulus
-* Power
-* Factorial
-* Square
-* Cube
-* Square root
+|ID   |DESCRIPTION                                    |STATUS     |
+|:----|:----------------------------------------------|:----------|
+|HLR1 |If user want to do the Addition operation      |Implemented|
+|HLR2 |If user want to do the subtraction operation   |Implemented|
+|HLR3 |If user want to do the Multiplication operation|Implemented|
+|HLR4 |If user want to do the Division operation      |Implemented|
+|HLR5 |If user want to do the modulus operation       |Implemented|
+|HLR6 |If user want to do the Power operation         |Implemented|
+|HLR7 |If user want to do the Factorial operation     |Implemented|
+|HLR8 |If user want to do the Square operation        |Implemented|
+|HLR9 |If user want to do the Cube operation          |Implemented|
+|HLR10|If user want to do the Square root operation   |Implemented|
+|HLR11|If user want to Exit                           |Implemented| 
 
 ## Low Level Requirements 
 * enter the operation you want to do (like Addition, subtraction, multiplication, division, modulus, power, factorial, square, cube, square root) 

@@ -30,12 +30,12 @@ A scientific calculator is an electronic device that can be used to evaluate and
 
 ## SWOT
 
-* Strength:
+#Strength:
     * This technology allows students solve complicated problems quickly and in an efficient manner
     * online calculators are relatively cheap
     * Calculator save time, energy and increases efficiency in workplace.
 
-* Weakness of calculator :
+# Weakness of calculator :
 Even though calculators can do the basic operations instantly, students should not use it all the time. When a student is always dependent on a calculator for solving problems of addition, subtraction, multiplication and division, it may make them incapable of solving these basic operations manually. This may cause them real trouble during their tests and even at the later stages of their life where they will need these skills to solve complex problems.
 
 

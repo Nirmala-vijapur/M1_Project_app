@@ -33,3 +33,6 @@ https://codingshiksha.com/c/c-c-program-to-build-scientific-calculator-on-comman
 
 
 https://api.codiga.io/project/31238/score/svg
+
+
+https://api.codiga.io/project/31238/status/svg

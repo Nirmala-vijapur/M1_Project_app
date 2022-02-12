@@ -4,7 +4,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = M1_scientific_calculator_utility
+PROJECT_NAME           = M1_Project_app
 PROJECT_NUMBER         = 0.1
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
@@ -206,8 +206,8 @@ IGNORE_PREFIX          =
 # Configuration options related to the HTML output
 #---------------------------------------------------------------------------
 GENERATE_HTML          = YES
-HTML_OUTPUT            = html
-HTML_FILE_EXTENSION    = .html
+HTML_OUTPUT            =
+HTML_FILE_EXTENSION    =
 HTML_HEADER            =
 HTML_FOOTER            =
 HTML_STYLESHEET        =
